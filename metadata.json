@@ -1,0 +1,8 @@
+{
+  "name": "ACCESS by ZIAN",
+  "description": "The Global-First Ecosystem for AI-Native Companies. Strategic expansion, operator intelligence, and execution infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
